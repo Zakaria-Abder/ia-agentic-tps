@@ -1,0 +1,15 @@
+[project]
+name = "tp8"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "ipython>=9.14.1",
+    "langchain>=1.3.9",
+    "langchain-ollama>=1.1.0",
+    "langgraph>=1.2.5",
+    "langgraph-cli[inmem]>=0.4.30",
+    "tavily>=1.1.0",
+]
