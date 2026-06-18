@@ -1,0 +1,11 @@
+{
+    
+    "graphs": {
+        "graph":"./agent_LangGraph.py:builder"
+    },
+    "env": "./.env",
+    "source": {
+    "kind": "uv",
+    "root": "."
+  }
+} 
