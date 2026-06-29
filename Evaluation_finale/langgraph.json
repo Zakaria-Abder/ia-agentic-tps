@@ -1,0 +1,10 @@
+{
+  "graphs": {
+    "finance": "./FinanceAdvisor.py:graph"
+  },
+  "env": "./.env",
+  "python_version": "3.12",
+  "dependencies": [
+    "."
+  ]
+}
